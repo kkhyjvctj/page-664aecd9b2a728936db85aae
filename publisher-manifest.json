@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "7fd8adf1907eab45461932b4",
+  "owner": "kkhyjvctj",
+  "repo": "page-664aecd9b2a728936db85aae",
+  "title": "InfiniPort",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "664aecd9b2a728936db85aae",
+      "a": "InfiniPort",
+      "b": "",
+      "entity": "InfiniPort",
+      "brand": "InfiniPort",
+      "separator": "",
+      "path": "index.html",
+      "hash": "6e912a9b9ce4ba1ef263d0986ab405d07dbd18bc74872c5a8310b331bd5b4a46",
+      "content": {
+        "keyword1": "InfiniPort",
+        "keyword2": "",
+        "primary_entity": "InfiniPort",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "InfiniPort 提供稳定机场订阅与多端 VPN 客户端下载，覆盖流媒体解锁、游戏加速与跨境办公，基础版到团队版套餐一目了然，官网集中说明节点与操作步骤。",
+          "AI_DESCRIPTION": "InfiniPort 提供稳定机场订阅与多端 VPN 客户端下载，覆盖流媒体解锁、游戏加速与跨境办公，基础版到团队版套餐一目了然，官网集中说明节点与操作步骤。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box;margin:0;padding:0}html{font-size:16px}body{font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;background:#FFF8F5;color:#2A2422;line-height:1.75}a{color:#C44A3C;text-decoration:underline}header{background:#ffffff;border-bottom:3px solid #E85D4C} .wrap{max-width:1080px;margin:0 auto;padding:1.15rem}nav{display:flex;flex-wrap:wrap;gap:.65rem 1.1rem;font-size:.95rem}h1{font-size:1.8rem;line-height:1.35;color:#C44A3C;margin:.35rem 0 1rem}h2{font-size:1.4rem;margin:0 0 .7rem;color:#2A2422}h3{font-size:1.12rem;margin:.4rem 0 .35rem}p{margin:.45rem 0;color:#3A332F}main{display:block}.lead{font-size:1.05rem;color:#5C534F}.section{margin:1.6rem 0;padding:1.35rem;background:#ffffff;border:1px solid #F0D8D0;border-radius:12px}.stagger{display:flex;flex-direction:column;gap:1rem}.stagger .panel{flex:1}.plans{display:flex;flex-direction:column;gap:1rem}.plan{padding:1.2rem;border:1px solid #F0D8D0;border-radius:10px;background:#FFF8F5}.plan.featured{border:2px solid #E85D4C;background:#FFE8E0}.price{font-size:1.45rem;font-weight:700;color:#C44A3C}.annual{font-size:.92rem;color:#5C534F;margin:.2rem 0 .7rem}ul{padding-left:1.2rem;margin:.4rem 0}li{margin:.25rem 0}details{margin:.55rem 0;padding:.65rem .85rem;background:#FFF8F5;border:1px solid #F0D8D0;border-radius:8px}summary{font-weight:600;color:#2A2422}.ad{background:#FFE8E0;padding:1rem 1.1rem;border-left:4px solid #E85D4C;margin:1.4rem 0}.friends a{display:inline-block;margin:0 1rem .4rem 0}footer{background:#2A2422;color:#F5EDE9;margin-top:1.8rem}footer a{color:#FFB4A8}footer .wrap{padding-top:1.4rem;padding-bottom:1.6rem}.sitemap{display:flex;flex-wrap:wrap;gap:.4rem 1rem;margin:.6rem 0 1rem}.muted{color:#5C534F;font-size:.95rem}@media(min-width:760px){.stagger{flex-direction:row;align-items:flex-start}.stagger.reverse{flex-direction:row-reverse}h1{font-size:2.05rem}.plans{flex-direction:row;align-items:stretch}.plan{flex:1}}</style><header><div class=\"wrap\"><nav><a href=\"#intro\">品牌简介</a><a href=\"#plans\">套餐对比</a><a href=\"#scenes\">使用场景</a><a href=\"#guide\">操作说明</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a><a href=\"#sitemap\">网站地图</a></nav></div></header><main><div class=\"wrap\"><h1>InfiniPort 官方网络加速与机场订阅</h1><p class=\"lead\">InfiniPort 官网集中介绍机场订阅、VPN 客户端下载与线路能力，方便个人与团队按流量、设备数和专线需求选择套餐，并按步骤完成导入与连接。</p><section id=\"intro\" class=\"section\"><div class=\"stagger\"><div class=\"panel\"><h2>InfiniPort 品牌简介</h2><p>InfiniPort 是面向跨境访问、流媒体与协作办公的网络加速服务。用户通过机场订阅获取节点，再在各端客户端中导入即可使用，无需把配置散落在多个来源。</p><p>官方网站承担说明与下载入口：套餐额度、设备上限、流媒体解锁范围和 IPLC 游戏优化都写在同一页，避免口头承诺与页面信息不一致。</p></div><div class=\"panel\"><h3>官方身份与服务边界</h3><p>InfiniPort 以订阅制提供加速能力，覆盖普通线路节点池与高带宽 VIP 节点。基础版适合轻度浏览，旗舰版强化原生流媒体与游戏专线，团队版面向多设备与定制路由。</p><p>节点覆盖常见亚太与欧美接入点，日常访问以稳定连通为主。具体延迟随本地网络变化，请以客户端测速与实际连接为准。</p></div></div></section><section id=\"plans\" class=\"section\"><h2>套餐对比：按流量、设备与线路选型</h2><p>以下为 InfiniPort 现行公开套餐。年付按十二个月计价，适合长期使用机场订阅的用户。旗舰版为大多数个人用户的默认选择。</p><div class=\"plans\"><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"plan featured\"><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></div><p class=\"muted\">流量按当月实际转发统计，到期未用完不结转。设备数以同时在线会话计，超出后需下线一台再接入。</p></section><section id=\"scenes\" class=\"section\"><div class=\"stagger reverse\"><div class=\"panel\"><h2>使用场景</h2><p>InfiniPort 把梯子能力拆成可预期的额度：看片、开会、拉代码或打游戏，对应不同套餐的节点池与带宽策略，而不是一套节点应付全部需求。</p></div><div class=\"panel\"><h3>跨境办公与资料查阅</h3><p>远程会议、文档协作和代码仓库访问适合走延迟更稳的线路。团队版可按域名做定制路由，把办公域名与娱乐流量分开。</p><h3>流媒体与内容站点</h3><p>基础版覆盖常见内容站的基础解锁；旗舰版强调全节点原生解锁，减少地区版权页反复跳转。</p><h3>游戏与实时对战</h3><p>旗舰版含 IPLC 专线游戏加速优化，适合对抖动敏感的对战与更新下载。仍建议在客户端内选择距离更近的游戏节点。</p></div></div></section><section id=\"guide\" class=\"section\"><h2>操作说明</h2><div class=\"stagger\"><div class=\"panel\"><h3>开通与订阅</h3><p>在 InfiniPort 官网选择套餐并完成支付后，账户会生成机场订阅链接。请妥善保存该链接，它用于所有客户端同步节点，不必逐条手填服务器。</p><p>个人用户优先旗舰版；仅浏览网页且设备不超过三台时，基础版即可。公司或多工作室共用请直接看团队版设备上限。</p></div><div class=\"panel\"><h3>导入与连接</h3><p>打开对应系统的 InfiniPort 客户端或兼容 Clash 的工具，粘贴订阅地址并更新节点列表。先选延迟较低的接入点，再开启系统代理或 TUN 模式。</p><p>若某条线路超时，切换同区域其他节点即可。游戏场景建议关闭全局中不必要的分流规则，避免语音与对战走错出口。</p></div></div></section><section id=\"download\" class=\"section\"><h2>InfiniPort 客户端下载</h2><p>官方下载入口按系统分类。以下链接指向本页对应说明锚点，安装包请从 InfiniPort 官网下载频道获取，避免第三方重新打包。</p><div class=\"stagger reverse\"><div class=\"panel\"><h3>桌面端</h3><p><a href=\"#download\">Windows 官方客户端</a> 支持系统代理与规则分流，适合长期挂机办公。</p><p><a href=\"#download\">macOS 官方客户端</a> 与菜单栏快捷切换节点，便于会议前一键连接。</p><p>Linux 用户可使用兼容 Clash 的订阅导入方式，节点与桌面端同一机场源。</p></div><div class=\"panel\"><h3>移动端与通用订阅</h3><p><a href=\"#download\">Android 官方客户端</a> 与 <a href=\"#download\">iOS 配置说明</a> 均读取同一订阅。iOS 可用 Shadowrocket 等工具导入 InfiniPort 机场订阅。</p><p>更新客户端后请重新拉取订阅，以免规则集停留在旧版本。下载完成后核对应显示 InfiniPort 标识。</p></div></div></section><section class=\"ad\" id=\"ads\"><h2>信息推广</h2><p>InfiniPort 团队版面向多设备协作：若需要把办公域名固定到 VIP 高带宽节点，可在套餐对比中核对 20 台同时在线与专属客户经理服务，再按年付降低月均成本。</p></section><section id=\"faq\" class=\"section\"><h2>常见问题</h2><details><summary>InfiniPort 是机场还是 VPN 客户端？</summary><p>InfiniPort 同时提供机场订阅与多端 VPN 客户端。订阅决定节点与流量额度，客户端负责导入、测速和连接。只装客户端没有有效订阅无法出网。</p></details><details><summary>如何完成官网下载并导入订阅？</summary><p>打开本页客户端下载分区，按系统获取官方安装包。安装后登录同一账户或粘贴机场订阅链接，点击更新，再选择节点连接。不要从来路不明的网盘获取安装文件。</p></details><details><summary>三个套餐该怎么选？</summary><p>轻度浏览选基础版（100GB / 3 台设备）。需要原生流媒体、游戏 IPLC 和优先工单选旗舰版。超过五台设备或要定制路由选团队版。年付价格已在各卡片标明。</p></details><details><summary>流量与设备数如何计算？</summary><p>流量按当月实际转发量累计，用尽后需等待下个计费周期或升级套餐。设备数按同时在线会话统计，例如旗舰版最多五台并行，第六台会被拒绝直至有设备下线。</p></details><details><summary>是否支持游戏加速和流媒体解锁？</summary><p>基础版提供基础流媒体解锁与普通节点池。旗舰版为全节点原生流媒体解锁，并包含 IPLC 专线游戏加速优化。竞技类游戏仍建议选择对应区域节点并避免高峰拥堵线路。</p></details><details><summary>连接失败时先检查什么？</summary><p>确认订阅未过期、本地时间准确、客户端为官网版本。然后更新订阅并更换同区域节点。公司网络若拦截 UDP，可在客户端改用兼容传输方式。旗舰版与团队版用户可通过优先工单或客户经理跟进。</p></details></section></div><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\" id=\"sitemap\"><h2>网站地图</h2><nav class=\"sitemap\"><a href=\"#intro\">品牌简介</a><a href=\"#plans\">套餐对比</a><a href=\"#scenes\">使用场景</a><a href=\"#guide\">操作说明</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a><a href=\"#ads\">信息推广</a><a href=\"#links\">友情链接</a></nav><div id=\"links\"><h3>友情链接</h3><p class=\"friends\"><a href=\"#\">网络工具导航</a><a href=\"#\">订阅配置手册</a><a href=\"#\">跨境协作指南</a><a href=\"#\">隐私与数据说明</a><a href=\"#guide\">使用入门</a></p></div><p class=\"muted\">InfiniPort 官方网站 · 机场订阅与 VPN 客户端下载说明 · <a href=\"#\">https://www.infiniport.com/</a></p></div></footer>",
+          "hash": "6fe72622a16ec8c70fe116bfcd0c36ce23bcb78c5182a333ddd01f7634cdf3bc",
+          "seo": {
+            "title": "InfiniPort 官方网站 – 机场订阅、VPN 客户端下载与网络加速",
+            "keywords": "InfiniPort,InfiniPort VPN,InfiniPort机场,机场订阅,VPN客户端下载,梯子,网络加速,加速器,官网下载,IPLC专线",
+            "description": "InfiniPort 提供稳定机场订阅与多端 VPN 客户端下载，覆盖流媒体解锁、游戏加速与跨境办公，基础版到团队版套餐一目了然，官网集中说明节点与操作步骤。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "shaofusheng.cn",
+    "host": "p-c17e1206de.shaofusheng.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "shaofusheng.cn",
+      "url": "https://shaofusheng.cn/",
+      "label": "几鸡(ChinaG)",
+      "apex": "shaofusheng.cn",
+      "kind": null,
+      "identity": "kcmsskxse/page-788f4dcf4e22181047413803"
+    },
+    {
+      "host": "kepopo.cn",
+      "url": "https://kepopo.cn/",
+      "label": "InfiniPort",
+      "apex": "kepopo.cn",
+      "kind": null,
+      "identity": "pusrrxun/page-6d910b2e60548977f10bb8d3"
+    },
+    {
+      "host": "niclasblue.cn",
+      "url": "https://niclasblue.cn/",
+      "label": "InfiniPort",
+      "apex": "niclasblue.cn",
+      "kind": null,
+      "identity": "vgmxtstnana/page-0b75603c859e7f3b1cbc2271"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "fad7e8987c3a4e1d62125af5a1526cce912e4e7bf10a73bf95645c9c2c20e193",
+    "sitemap.xml": "53f3a9f022375917e543666f178adeb1dc55833b81069e104467c03c1525c689",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "b35530e471bb931caf376b6b6337b5851fdd0e24b0cdbb1f93139bcf26db2824",
+    "robots.txt": "90460fab9cf9038147a78cc343d55644c4e749225d68ad4a911378cde131c639",
+    "0280869c5d16593c9e1617dc9d67b406.txt": "7ad23ff0f33d998494c2956830de3beb52b5c7eeb5f26806741cedfe0a995703"
+  },
+  "revision": "e79ba589cf220d243874090d0b294c20861e763f81fced2353ed3bdd93207e5e"
+}
